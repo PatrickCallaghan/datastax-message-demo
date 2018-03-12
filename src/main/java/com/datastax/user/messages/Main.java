@@ -1,4 +1,4 @@
-package com.datastax.user.interactions;
+package com.datastax.user.messages;
 
 import java.util.Arrays;
 import java.util.Date;
